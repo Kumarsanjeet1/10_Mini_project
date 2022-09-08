@@ -1,2 +1,11 @@
-# 10_Mini_project
-In this repository, there are 10 mini frontend project !
+# 10 Mini Frontend Project
+*  Navigation Bar
+*
+*
+*
+*
+*
+*
+*
+*
+*
