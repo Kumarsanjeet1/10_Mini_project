@@ -1,6 +1,6 @@
 # 10 Mini Frontend Project in 2 weeks!
 * - [x] [Navigation Bar](https://github.com/Kumarsanjeet1/10_Mini_project/tree/main/nav_Bar)
-* - [ ] [Help Center webpage]()
+* - [ ] [Help webpage](https://github.com/Kumarsanjeet1/10_Mini_project/tree/main/help_page)
 * - [ ] [project 3]()
 * - [ ] [project 4]()
 * - [ ] [project 5]()
