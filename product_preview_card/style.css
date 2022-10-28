@@ -86,6 +86,7 @@ body{
 
 #button{
     color: rgb(5, 57, 16);
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -99,7 +100,7 @@ body{
     border-color: black;
 }
 #button img{
-  
+    
     background-color: rgb(201, 195, 204);
     height: 40px;
     width: 30px;
