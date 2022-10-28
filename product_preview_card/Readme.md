@@ -1,5 +1,5 @@
 # :closed_book: Product Preview Card  :pushpin:
-### :paperclip: Link of Project - [click here](https://productpreviewcard-j8pll9ozq-kumarsanjeet1.vercel.app/)
+### :paperclip: Link of Project - [click here](https://productpreviewcard-sandy.vercel.app/)
 ### :paperclip: Resources - [click here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 <br>
 :wrench: Tech Stack Used- HTML & CSS	:ladder:
