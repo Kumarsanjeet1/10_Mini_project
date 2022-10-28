@@ -1,0 +1,186 @@
+ body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+#classroomLogo{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: px;
+    margin-bottom: 70px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    height: 50px;
+    background-color: #226f6f;
+}
+
+
+nav{
+     display: flex; 
+    align-items:center;
+    justify-content: space-between; 
+   
+    padding-top: 10px;
+    background-color: #226f6f;
+    height: 70px;
+}
+
+
+#logoname{ 
+    font-size: 25px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 1px;
+    padding-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #f5deb3;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+
+
+#logoname:hover{
+    color:#00ff00 ;
+    transition:.4s;
+    font-weight: bold;
+    
+}
+
+
+#help{
+    color: wheat;
+    float: left;
+    margin-left: 20px;
+    padding-top: 16px;
+    padding-left: 2px;
+    
+    
+}
+
+#help:hover{
+    color: #00ff00;
+    transition: .4s;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 20px;
+}
+
+nav ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+nav ul li{
+    display: inline;
+    justify-content: center;
+    
+}
+
+#container{
+    background-color: rgb(146, 154, 193);
+   
+}
+
+#help-text{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-style: normals;
+    padding-top: 30px;
+
+}
+
+
+#search-bar{
+    width: 100%;
+    max-width: 700px;
+    background: rgba(225, 225, 225, 0.2);
+    justify-items: center;
+    margin-left: 350px;
+    border-radius: 60px
+    
+}
+#search-bar input{
+    background:transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding-left: 40px;
+    padding-bottom: 35px;
+    
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+
+}
+::placeholder{
+    
+    color: rgb(251, 245, 245);
+   
+}
+
+#search-bar button{
+    margin-left: 310px;
+    margin-top: 20px;
+}
+
+
+.footer-section{
+   
+    display: flex;
+    gap:14rem;
+    background-color: #226f6f;
+    background:cover;
+    justify-content: center;
+    max-height: 100%;
+    min-height: 100%;
+    padding:0px 0px 10px 0px;
+   
+    
+}
+.footer-section h3{
+    color: beige;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: oblique;
+    font-stretch: extra-expanded;
+    text-decoration:underline;
+    
+    
+}
+.footer-section h3:hover{
+    color: #00ff00;
+    font-style: italic;
+    font-size: 32px;
+    transition: .3s;
+    font-weight: bold;
+    text-decoration: overline;
+}
+
+.footer-section ul li{
+    list-style: none;
+    
+    
+    font-stretch: extra-expanded;
+    padding: 4px 0px 4px 0px;
+
+}
+
+.footer-section ul li a{
+    
+    color: wheat;
+    font-size: 20px; 
+    text-decoration-line: none;
+    
+}
+
+
+
+
