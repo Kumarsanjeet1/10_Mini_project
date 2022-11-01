@@ -1,7 +1,7 @@
 # 10 Mini Frontend Project!
 * - [x] [Navigation Bar](https://github.com/Kumarsanjeet1/10_Mini_project/tree/main/nav_Bar)
 * - [x] [product preview card](https://github.com/Kumarsanjeet1/10_Mini_project/tree/main/product_preview_card)
-* - [ ] [Classroom](https://github.com/Kumarsanjeet1/10_Mini_project/tree/main/help_page)
+* - [ ] [Classroom](https://github.com/Kumarsanjeet1/10_Mini_project/tree/main/classroom)
 * - [ ] [project 4]()
 * - [ ] [project 5]()
 * - [ ] [project 6]()
