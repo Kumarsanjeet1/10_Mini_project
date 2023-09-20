@@ -21,18 +21,16 @@ nav
     align-items: center;
     background-color:#000000;
     justify-content: space-between;
-    padding-top: 20px;
+    /* padding-top: 20px;
     padding-bottom: 10px;
     padding-left: 8%;
-    padding-right: 10%;
+    padding-right: 10%; */
+    padding: 20px 10% 10px 8%;
  }
  nav:hover{
     transition: .8s;
     background-color:transparent;
-    border-bottom-left-radius: 40px;
-    border-bottom-right-radius: 40px;
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
+    border-radius: 40px;
  }
 
 .logo
